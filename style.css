@@ -1,0 +1,52 @@
+.caja {background-color: rgb(197,203,197);
+		width: 240px;
+		height: 340px;
+		margin: 0 auto;
+		padding: 60px; }
+
+h1 {text-align: center;}
+
+.color-1 {
+	text-transform: uppercase;
+	font-family: gill sans; 
+	color:rgb(156,176,77);
+	font-size: 52px;
+
+
+
+			}
+.color-2 { 
+	text-transform: uppercase;
+	font-family: gill sans; 
+	color:rgb(243,241,230);
+	font-size:39px;
+}
+.color-3 {
+	text-transform: uppercase;
+	font-family: gill sans;  
+	color:rgb(44,163,180);
+	font-size:39px;
+}
+.color-4 {
+	text-transform: uppercase;
+	font-family: gill sans;  
+	color:rgb(230,83,86);
+	letter-spacing: 5px;
+	font-size: 60px;
+}
+
+.color-5 {
+	text-transform: lowercase;
+	font-family: georgia;  
+	color:rgb(44,163,180);
+	font-size: 16px;
+	font-weight: lighter;
+
+}
+
+p {
+	font-family: monospace;
+	color: #333;
+	text-align: left;
+	font-size: 10px;
+}
